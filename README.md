@@ -1,5 +1,6 @@
 # First-Landing-Page
-![landig](https://github.com/Ngwenya-Mn/First-Landing-Page/blob/main/Nature%20Photos%20-%20JS%20Bin%20-%20Google%20Chrome%2015-Aug-23%2017_27_49.png)
+![Nature Photos - JS Bin - Google Chrome 15-Aug-23 17_27_49](https://github.com/Ngwenya-Mn/First-Landing-Page/assets/101677077/f127ff18-3e0f-432b-b377-5fc80266751b)
+
 The landing page features a nature photography theme and includes the following elements:
 
 - Navigation bar with a logo and links for "Home," "About," and "Contacts."
